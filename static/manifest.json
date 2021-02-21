@@ -1,8 +1,8 @@
 {
 	"background_color": "#ffffff",
 	"theme_color": "#333333",
-	"name": "TODO",
-	"short_name": "TODO",
+	"name": "Svelte Vendor Portal",
+	"short_name": "sv-vendor-portal",
 	"display": "minimal-ui",
 	"start_url": "/",
 	"icons": [
