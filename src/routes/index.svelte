@@ -13,13 +13,16 @@
   <title>Vendor Portal</title>
 </svelte:head>
 
-<h1>Login</h1>
+<h1>Login<span class='test'>test</span></h1>
 <div>{fileArray.length}</div>
 
-<style>
+<style lang="scss">
   @media (min-width: 480px) {
     h1 {
       font-size: 4em;
+      .test {
+        background-color: green;
+      }
     }
   }
 </style>
